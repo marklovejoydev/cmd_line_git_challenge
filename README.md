@@ -1,1 +1,3 @@
-"# **Command Line & Git Challenge**\n\nThis is my challenge repo" 
+# **Command Line & Git Challenge**
+
+This is my challenge repo
